@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>C:/Users/Fig/OneDrive/Desktop/Archive Proects/Kebaberia/Kebaberia/Content/Assets/Sounds/gameNotification.mp3</SourceFile>
+  <SourceTime>2024-04-18T18:53:23.6033364-04:00</SourceTime>
+  <DestFile>C:/Users/Fig/OneDrive/Desktop/Archive Proects/Kebaberia/Kebaberia/Content/bin/DesktopGL/Content/Assets/Sounds/gameNotification.xnb</DestFile>
+  <DestTime>2024-12-15T17:36:11.5647399-05:00</DestTime>
+  <Importer>Mp3Importer</Importer>
+  <ImporterTime>2022-07-26T07:44:56-04:00</ImporterTime>
+  <Processor>SoundEffectProcessor</Processor>
+  <ProcessorTime>2022-07-26T07:44:56-04:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

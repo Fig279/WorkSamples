@@ -1,0 +1,239 @@
+C:\Users\Fig\OneDrive\Desktop\Kebaberia\Kebaberia\bin\Debug\net6.0\Content\Assets\Buttons\about\342 px\about01.xnb
+C:\Users\Fig\OneDrive\Desktop\Kebaberia\Kebaberia\bin\Debug\net6.0\Content\Assets\Buttons\about\342 px\about02.xnb
+C:\Users\Fig\OneDrive\Desktop\Kebaberia\Kebaberia\bin\Debug\net6.0\Content\Assets\Buttons\about\342 px\about03.xnb
+C:\Users\Fig\OneDrive\Desktop\Kebaberia\Kebaberia\bin\Debug\net6.0\Content\Assets\Buttons\about\342 px\about04.xnb
+C:\Users\Fig\OneDrive\Desktop\Kebaberia\Kebaberia\bin\Debug\net6.0\Content\Assets\Buttons\about\342 px\about05.xnb
+C:\Users\Fig\OneDrive\Desktop\Kebaberia\Kebaberia\bin\Debug\net6.0\Content\Assets\Buttons\about\72 px\about01.xnb
+C:\Users\Fig\OneDrive\Desktop\Kebaberia\Kebaberia\bin\Debug\net6.0\Content\Assets\Buttons\about\72 px\about02.xnb
+C:\Users\Fig\OneDrive\Desktop\Kebaberia\Kebaberia\bin\Debug\net6.0\Content\Assets\Buttons\about\72 px\about03.xnb
+C:\Users\Fig\OneDrive\Desktop\Kebaberia\Kebaberia\bin\Debug\net6.0\Content\Assets\Buttons\about\72 px\about04.xnb
+C:\Users\Fig\OneDrive\Desktop\Kebaberia\Kebaberia\bin\Debug\net6.0\Content\Assets\Buttons\about\72 px\about05.xnb
+C:\Users\Fig\OneDrive\Desktop\Kebaberia\Kebaberia\bin\Debug\net6.0\Content\Assets\Buttons\back\342 px\back01.xnb
+C:\Users\Fig\OneDrive\Desktop\Kebaberia\Kebaberia\bin\Debug\net6.0\Content\Assets\Buttons\back\342 px\back02.xnb
+C:\Users\Fig\OneDrive\Desktop\Kebaberia\Kebaberia\bin\Debug\net6.0\Content\Assets\Buttons\back\342 px\back03.xnb
+C:\Users\Fig\OneDrive\Desktop\Kebaberia\Kebaberia\bin\Debug\net6.0\Content\Assets\Buttons\back\342 px\back04.xnb
+C:\Users\Fig\OneDrive\Desktop\Kebaberia\Kebaberia\bin\Debug\net6.0\Content\Assets\Buttons\back\342 px\back05.xnb
+C:\Users\Fig\OneDrive\Desktop\Kebaberia\Kebaberia\bin\Debug\net6.0\Content\Assets\Buttons\back\72 px\back01.xnb
+C:\Users\Fig\OneDrive\Desktop\Kebaberia\Kebaberia\bin\Debug\net6.0\Content\Assets\Buttons\back\72 px\back02.xnb
+C:\Users\Fig\OneDrive\Desktop\Kebaberia\Kebaberia\bin\Debug\net6.0\Content\Assets\Buttons\back\72 px\back03.xnb
+C:\Users\Fig\OneDrive\Desktop\Kebaberia\Kebaberia\bin\Debug\net6.0\Content\Assets\Buttons\back\72 px\back04.xnb
+C:\Users\Fig\OneDrive\Desktop\Kebaberia\Kebaberia\bin\Debug\net6.0\Content\Assets\Buttons\back\72 px\back05.xnb
+C:\Users\Fig\OneDrive\Desktop\Kebaberia\Kebaberia\bin\Debug\net6.0\Content\Assets\Buttons\information\342 px\information01.xnb
+C:\Users\Fig\OneDrive\Desktop\Kebaberia\Kebaberia\bin\Debug\net6.0\Content\Assets\Buttons\information\342 px\information02.xnb
+C:\Users\Fig\OneDrive\Desktop\Kebaberia\Kebaberia\bin\Debug\net6.0\Content\Assets\Buttons\information\342 px\information03.xnb
+C:\Users\Fig\OneDrive\Desktop\Kebaberia\Kebaberia\bin\Debug\net6.0\Content\Assets\Buttons\information\342 px\information04.xnb
+C:\Users\Fig\OneDrive\Desktop\Kebaberia\Kebaberia\bin\Debug\net6.0\Content\Assets\Buttons\information\342 px\information05.xnb
+C:\Users\Fig\OneDrive\Desktop\Kebaberia\Kebaberia\bin\Debug\net6.0\Content\Assets\Buttons\information\72 px\information01.xnb
+C:\Users\Fig\OneDrive\Desktop\Kebaberia\Kebaberia\bin\Debug\net6.0\Content\Assets\Buttons\information\72 px\information02.xnb
+C:\Users\Fig\OneDrive\Desktop\Kebaberia\Kebaberia\bin\Debug\net6.0\Content\Assets\Buttons\information\72 px\information03.xnb
+C:\Users\Fig\OneDrive\Desktop\Kebaberia\Kebaberia\bin\Debug\net6.0\Content\Assets\Buttons\information\72 px\information04.xnb
+C:\Users\Fig\OneDrive\Desktop\Kebaberia\Kebaberia\bin\Debug\net6.0\Content\Assets\Buttons\information\72 px\information05.xnb
+C:\Users\Fig\OneDrive\Desktop\Kebaberia\Kebaberia\bin\Debug\net6.0\Content\Assets\Buttons\leaderboard\342 px\leaderboard01.xnb
+C:\Users\Fig\OneDrive\Desktop\Kebaberia\Kebaberia\bin\Debug\net6.0\Content\Assets\Buttons\leaderboard\342 px\leaderboard02.xnb
+C:\Users\Fig\OneDrive\Desktop\Kebaberia\Kebaberia\bin\Debug\net6.0\Content\Assets\Buttons\leaderboard\342 px\leaderboard03.xnb
+C:\Users\Fig\OneDrive\Desktop\Kebaberia\Kebaberia\bin\Debug\net6.0\Content\Assets\Buttons\leaderboard\342 px\leaderboard04.xnb
+C:\Users\Fig\OneDrive\Desktop\Kebaberia\Kebaberia\bin\Debug\net6.0\Content\Assets\Buttons\leaderboard\342 px\leaderboard05.xnb
+C:\Users\Fig\OneDrive\Desktop\Kebaberia\Kebaberia\bin\Debug\net6.0\Content\Assets\Buttons\leaderboard\72 px\leaderboard01.xnb
+C:\Users\Fig\OneDrive\Desktop\Kebaberia\Kebaberia\bin\Debug\net6.0\Content\Assets\Buttons\leaderboard\72 px\leaderboard02.xnb
+C:\Users\Fig\OneDrive\Desktop\Kebaberia\Kebaberia\bin\Debug\net6.0\Content\Assets\Buttons\leaderboard\72 px\leaderboard03.xnb
+C:\Users\Fig\OneDrive\Desktop\Kebaberia\Kebaberia\bin\Debug\net6.0\Content\Assets\Buttons\leaderboard\72 px\leaderboard04.xnb
+C:\Users\Fig\OneDrive\Desktop\Kebaberia\Kebaberia\bin\Debug\net6.0\Content\Assets\Buttons\leaderboard\72 px\leaderboard05.xnb
+C:\Users\Fig\OneDrive\Desktop\Kebaberia\Kebaberia\bin\Debug\net6.0\Content\Assets\Buttons\play\342 px\play01.xnb
+C:\Users\Fig\OneDrive\Desktop\Kebaberia\Kebaberia\bin\Debug\net6.0\Content\Assets\Buttons\play\342 px\play02.xnb
+C:\Users\Fig\OneDrive\Desktop\Kebaberia\Kebaberia\bin\Debug\net6.0\Content\Assets\Buttons\play\342 px\play03.xnb
+C:\Users\Fig\OneDrive\Desktop\Kebaberia\Kebaberia\bin\Debug\net6.0\Content\Assets\Buttons\play\342 px\play04.xnb
+C:\Users\Fig\OneDrive\Desktop\Kebaberia\Kebaberia\bin\Debug\net6.0\Content\Assets\Buttons\play\342 px\play05.xnb
+C:\Users\Fig\OneDrive\Desktop\Kebaberia\Kebaberia\bin\Debug\net6.0\Content\Assets\Buttons\play\72 px\play01.xnb
+C:\Users\Fig\OneDrive\Desktop\Kebaberia\Kebaberia\bin\Debug\net6.0\Content\Assets\Buttons\play\72 px\play02.xnb
+C:\Users\Fig\OneDrive\Desktop\Kebaberia\Kebaberia\bin\Debug\net6.0\Content\Assets\Buttons\play\72 px\play03.xnb
+C:\Users\Fig\OneDrive\Desktop\Kebaberia\Kebaberia\bin\Debug\net6.0\Content\Assets\Buttons\play\72 px\play04.xnb
+C:\Users\Fig\OneDrive\Desktop\Kebaberia\Kebaberia\bin\Debug\net6.0\Content\Assets\Buttons\play\72 px\play05.xnb
+C:\Users\Fig\OneDrive\Desktop\Kebaberia\Kebaberia\bin\Debug\net6.0\Content\Assets\Food We Picked\AppleWorm.xnb
+C:\Users\Fig\OneDrive\Desktop\Kebaberia\Kebaberia\bin\Debug\net6.0\Content\Assets\Food We Picked\Fish.xnb
+C:\Users\Fig\OneDrive\Desktop\Kebaberia\Kebaberia\bin\Debug\net6.0\Content\Assets\Food We Picked\Grub.xnb
+C:\Users\Fig\OneDrive\Desktop\Kebaberia\Kebaberia\bin\Debug\net6.0\Content\Assets\Food We Picked\MelonWater.xnb
+C:\Users\Fig\OneDrive\Desktop\Kebaberia\Kebaberia\bin\Debug\net6.0\Content\Assets\Food We Picked\Pickle.xnb
+C:\Users\Fig\OneDrive\Desktop\Kebaberia\Kebaberia\bin\Debug\net6.0\Content\Assets\Food We Picked\Pineapple.xnb
+C:\Users\Fig\OneDrive\Desktop\Kebaberia\Kebaberia\bin\Debug\net6.0\Content\Assets\Food We Picked\Sashimi.xnb
+C:\Users\Fig\OneDrive\Desktop\Kebaberia\Kebaberia\bin\Debug\net6.0\Content\Assets\Food We Picked\Shrimp.xnb
+C:\Users\Fig\OneDrive\Desktop\Kebaberia\Kebaberia\bin\Debug\net6.0\Content\Assets\Kebab Stick.xnb
+C:\Users\Fig\OneDrive\Desktop\Kebaberia\Kebaberia\bin\Debug\net6.0\Content\Assets\Sounds\clickSound.xnb
+C:\Users\Fig\OneDrive\Desktop\Kebaberia\Kebaberia\bin\Debug\net6.0\Content\Assets\Sounds\correctSound.xnb
+C:\Users\Fig\OneDrive\Desktop\Kebaberia\Kebaberia\bin\Debug\net6.0\Content\Assets\Sounds\errorSound.xnb
+C:\Users\Fig\OneDrive\Desktop\Kebaberia\Kebaberia\bin\Debug\net6.0\Content\Assets\Sounds\gameNotification.xnb
+C:\Users\Fig\OneDrive\Desktop\Kebaberia\Kebaberia\bin\Debug\net6.0\Content\Assets\Sounds\stickSound.xnb
+C:\Users\Fig\OneDrive\Desktop\Kebaberia\Kebaberia\bin\Debug\net6.0\Content\Assets\Sounds\upbeatJazz.ogg
+C:\Users\Fig\OneDrive\Desktop\Kebaberia\Kebaberia\bin\Debug\net6.0\Content\Assets\Sounds\upbeatJazz.xnb
+C:\Users\Fig\OneDrive\Desktop\Kebaberia\Kebaberia\bin\Debug\net6.0\Content\Assets\Ui Sample.xnb
+C:\Users\Fig\OneDrive\Desktop\Kebaberia\Kebaberia\bin\Debug\net6.0\Content\Assets\Wooden font v1\RedWood-5x.xnb
+C:\Users\Fig\OneDrive\Desktop\Kebaberia\Kebaberia\bin\Debug\net6.0\Content\Assets\Wooden font v1\RedWood.xnb
+C:\Users\Fig\OneDrive\Desktop\Kebaberia\Kebaberia\bin\Debug\net6.0\Content\Assets\Wooden font v1\RedWoodPressed-5x.xnb
+C:\Users\Fig\OneDrive\Desktop\Kebaberia\Kebaberia\bin\Debug\net6.0\Content\Assets\Wooden font v1\RedWoodPressed.xnb
+C:\Users\Fig\OneDrive\Desktop\Kebaberia\Kebaberia\bin\Debug\net6.0\Content\Assets\Wooden font v1\WhiteWood-5x.xnb
+C:\Users\Fig\OneDrive\Desktop\Kebaberia\Kebaberia\bin\Debug\net6.0\Content\Assets\Wooden font v1\WhiteWood.xnb
+C:\Users\Fig\OneDrive\Desktop\Kebaberia\Kebaberia\bin\Debug\net6.0\Content\Assets\Wooden font v1\WhiteWoodPressed-5x.xnb
+C:\Users\Fig\OneDrive\Desktop\Kebaberia\Kebaberia\bin\Debug\net6.0\Content\Assets\Wooden font v1\WhiteWoodPressed.xnb
+C:\Users\Fig\OneDrive\Desktop\Kebaberia\Kebaberia\bin\Debug\net6.0\Content\Assets\Wooden font v1\Wood-5x.xnb
+C:\Users\Fig\OneDrive\Desktop\Kebaberia\Kebaberia\bin\Debug\net6.0\Content\Assets\Wooden font v1\Wood.xnb
+C:\Users\Fig\OneDrive\Desktop\Kebaberia\Kebaberia\bin\Debug\net6.0\Content\Assets\Wooden font v1\WoodPressed-5x.xnb
+C:\Users\Fig\OneDrive\Desktop\Kebaberia\Kebaberia\bin\Debug\net6.0\Content\Assets\Wooden font v1\WoodPressed.xnb
+C:\Users\Fig\OneDrive\Desktop\Kebaberia\Kebaberia\bin\Debug\net6.0\Content\Cat-Comic-36.xnb
+C:\Users\Fig\OneDrive\Desktop\Kebaberia\Kebaberia\bin\Debug\net6.0\Content\Cat-Comic-70.xnb
+C:\Users\Fig\OneDrive\Desktop\Kebaberia\Kebaberia\bin\Debug\net6.0\Content\horizontalPaper.xnb
+C:\Users\Fig\OneDrive\Desktop\Kebaberia\Kebaberia\bin\Debug\net6.0\Content\horizontalWood.xnb
+C:\Users\Fig\OneDrive\Desktop\Kebaberia\Kebaberia\bin\Debug\net6.0\Content\kebaberiaLogo.xnb
+C:\Users\Fig\OneDrive\Desktop\Kebaberia\Kebaberia\bin\Debug\net6.0\Content\KebaberiaLogoNew.xnb
+C:\Users\Fig\OneDrive\Desktop\Kebaberia\Kebaberia\bin\Debug\net6.0\Content\openTrashBin.xnb
+C:\Users\Fig\OneDrive\Desktop\Kebaberia\Kebaberia\bin\Debug\net6.0\Content\solid_blue.xnb
+C:\Users\Fig\OneDrive\Desktop\Kebaberia\Kebaberia\bin\Debug\net6.0\Content\stick.xnb
+C:\Users\Fig\OneDrive\Desktop\Kebaberia\Kebaberia\bin\Debug\net6.0\Content\trashBin.xnb
+C:\Users\Fig\OneDrive\Desktop\Kebaberia\Kebaberia\bin\Debug\net6.0\Content\verticalRibbon.xnb
+C:\Users\Fig\OneDrive\Desktop\Kebaberia\Kebaberia\bin\Debug\net6.0\Content\verticalWood.xnb
+C:\Users\Fig\OneDrive\Desktop\Kebaberia\Kebaberia\bin\Debug\net6.0\Content\woodBackground.xnb
+C:\Users\Fig\OneDrive\Desktop\Kebaberia\Kebaberia\bin\Debug\net6.0\Kebaberia.exe
+C:\Users\Fig\OneDrive\Desktop\Kebaberia\Kebaberia\bin\Debug\net6.0\Kebaberia.deps.json
+C:\Users\Fig\OneDrive\Desktop\Kebaberia\Kebaberia\bin\Debug\net6.0\Kebaberia.runtimeconfig.json
+C:\Users\Fig\OneDrive\Desktop\Kebaberia\Kebaberia\bin\Debug\net6.0\Kebaberia.dll
+C:\Users\Fig\OneDrive\Desktop\Kebaberia\Kebaberia\bin\Debug\net6.0\Kebaberia.pdb
+C:\Users\Fig\OneDrive\Desktop\Kebaberia\Kebaberia\bin\Debug\net6.0\MonoGame.Extended.dll
+C:\Users\Fig\OneDrive\Desktop\Kebaberia\Kebaberia\bin\Debug\net6.0\MonoGame.Framework.dll
+C:\Users\Fig\OneDrive\Desktop\Kebaberia\Kebaberia\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Fig\OneDrive\Desktop\Kebaberia\Kebaberia\bin\Debug\net6.0\runtimes\linux-x64\native\libSDL2-2.0.so.0
+C:\Users\Fig\OneDrive\Desktop\Kebaberia\Kebaberia\bin\Debug\net6.0\runtimes\linux-x64\native\libopenal.so.1
+C:\Users\Fig\OneDrive\Desktop\Kebaberia\Kebaberia\bin\Debug\net6.0\runtimes\osx\native\libSDL2.dylib
+C:\Users\Fig\OneDrive\Desktop\Kebaberia\Kebaberia\bin\Debug\net6.0\runtimes\osx\native\libopenal.1.dylib
+C:\Users\Fig\OneDrive\Desktop\Kebaberia\Kebaberia\bin\Debug\net6.0\runtimes\win-x64\native\SDL2.dll
+C:\Users\Fig\OneDrive\Desktop\Kebaberia\Kebaberia\bin\Debug\net6.0\runtimes\win-x64\native\soft_oal.dll
+C:\Users\Fig\OneDrive\Desktop\Kebaberia\Kebaberia\bin\Debug\net6.0\runtimes\win-x86\native\SDL2.dll
+C:\Users\Fig\OneDrive\Desktop\Kebaberia\Kebaberia\bin\Debug\net6.0\runtimes\win-x86\native\soft_oal.dll
+C:\Users\Fig\OneDrive\Desktop\Kebaberia\Kebaberia\obj\Debug\net6.0\Kebaberia.csproj.AssemblyReference.cache
+C:\Users\Fig\OneDrive\Desktop\Kebaberia\Kebaberia\obj\Debug\net6.0\Kebaberia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fig\OneDrive\Desktop\Kebaberia\Kebaberia\obj\Debug\net6.0\Kebaberia.AssemblyInfoInputs.cache
+C:\Users\Fig\OneDrive\Desktop\Kebaberia\Kebaberia\obj\Debug\net6.0\Kebaberia.AssemblyInfo.cs
+C:\Users\Fig\OneDrive\Desktop\Kebaberia\Kebaberia\obj\Debug\net6.0\Kebaberia.csproj.CoreCompileInputs.cache
+C:\Users\Fig\OneDrive\Desktop\Kebaberia\Kebaberia\obj\Debug\net6.0\Kebaberia.csproj.CopyComplete
+C:\Users\Fig\OneDrive\Desktop\Kebaberia\Kebaberia\obj\Debug\net6.0\Kebaberia.dll
+C:\Users\Fig\OneDrive\Desktop\Kebaberia\Kebaberia\obj\Debug\net6.0\refint\Kebaberia.dll
+C:\Users\Fig\OneDrive\Desktop\Kebaberia\Kebaberia\obj\Debug\net6.0\Kebaberia.pdb
+C:\Users\Fig\OneDrive\Desktop\Kebaberia\Kebaberia\obj\Debug\net6.0\Kebaberia.genruntimeconfig.cache
+C:\Users\Fig\OneDrive\Desktop\Kebaberia\Kebaberia\obj\Debug\net6.0\ref\Kebaberia.dll
+C:\Users\Fig\OneDrive\Desktop\Archive Proects\Kebaberia\Kebaberia\bin\Debug\net6.0\Content\Assets\Buttons\about\342 px\about01.xnb
+C:\Users\Fig\OneDrive\Desktop\Archive Proects\Kebaberia\Kebaberia\bin\Debug\net6.0\Content\Assets\Buttons\about\342 px\about02.xnb
+C:\Users\Fig\OneDrive\Desktop\Archive Proects\Kebaberia\Kebaberia\bin\Debug\net6.0\Content\Assets\Buttons\about\342 px\about03.xnb
+C:\Users\Fig\OneDrive\Desktop\Archive Proects\Kebaberia\Kebaberia\bin\Debug\net6.0\Content\Assets\Buttons\about\342 px\about04.xnb
+C:\Users\Fig\OneDrive\Desktop\Archive Proects\Kebaberia\Kebaberia\bin\Debug\net6.0\Content\Assets\Buttons\about\342 px\about05.xnb
+C:\Users\Fig\OneDrive\Desktop\Archive Proects\Kebaberia\Kebaberia\bin\Debug\net6.0\Content\Assets\Buttons\about\72 px\about01.xnb
+C:\Users\Fig\OneDrive\Desktop\Archive Proects\Kebaberia\Kebaberia\bin\Debug\net6.0\Content\Assets\Buttons\about\72 px\about02.xnb
+C:\Users\Fig\OneDrive\Desktop\Archive Proects\Kebaberia\Kebaberia\bin\Debug\net6.0\Content\Assets\Buttons\about\72 px\about03.xnb
+C:\Users\Fig\OneDrive\Desktop\Archive Proects\Kebaberia\Kebaberia\bin\Debug\net6.0\Content\Assets\Buttons\about\72 px\about04.xnb
+C:\Users\Fig\OneDrive\Desktop\Archive Proects\Kebaberia\Kebaberia\bin\Debug\net6.0\Content\Assets\Buttons\about\72 px\about05.xnb
+C:\Users\Fig\OneDrive\Desktop\Archive Proects\Kebaberia\Kebaberia\bin\Debug\net6.0\Content\Assets\Buttons\back\342 px\back01.xnb
+C:\Users\Fig\OneDrive\Desktop\Archive Proects\Kebaberia\Kebaberia\bin\Debug\net6.0\Content\Assets\Buttons\back\342 px\back02.xnb
+C:\Users\Fig\OneDrive\Desktop\Archive Proects\Kebaberia\Kebaberia\bin\Debug\net6.0\Content\Assets\Buttons\back\342 px\back03.xnb
+C:\Users\Fig\OneDrive\Desktop\Archive Proects\Kebaberia\Kebaberia\bin\Debug\net6.0\Content\Assets\Buttons\back\342 px\back04.xnb
+C:\Users\Fig\OneDrive\Desktop\Archive Proects\Kebaberia\Kebaberia\bin\Debug\net6.0\Content\Assets\Buttons\back\342 px\back05.xnb
+C:\Users\Fig\OneDrive\Desktop\Archive Proects\Kebaberia\Kebaberia\bin\Debug\net6.0\Content\Assets\Buttons\back\72 px\back01.xnb
+C:\Users\Fig\OneDrive\Desktop\Archive Proects\Kebaberia\Kebaberia\bin\Debug\net6.0\Content\Assets\Buttons\back\72 px\back02.xnb
+C:\Users\Fig\OneDrive\Desktop\Archive Proects\Kebaberia\Kebaberia\bin\Debug\net6.0\Content\Assets\Buttons\back\72 px\back03.xnb
+C:\Users\Fig\OneDrive\Desktop\Archive Proects\Kebaberia\Kebaberia\bin\Debug\net6.0\Content\Assets\Buttons\back\72 px\back04.xnb
+C:\Users\Fig\OneDrive\Desktop\Archive Proects\Kebaberia\Kebaberia\bin\Debug\net6.0\Content\Assets\Buttons\back\72 px\back05.xnb
+C:\Users\Fig\OneDrive\Desktop\Archive Proects\Kebaberia\Kebaberia\bin\Debug\net6.0\Content\Assets\Buttons\information\342 px\information01.xnb
+C:\Users\Fig\OneDrive\Desktop\Archive Proects\Kebaberia\Kebaberia\bin\Debug\net6.0\Content\Assets\Buttons\information\342 px\information02.xnb
+C:\Users\Fig\OneDrive\Desktop\Archive Proects\Kebaberia\Kebaberia\bin\Debug\net6.0\Content\Assets\Buttons\information\342 px\information03.xnb
+C:\Users\Fig\OneDrive\Desktop\Archive Proects\Kebaberia\Kebaberia\bin\Debug\net6.0\Content\Assets\Buttons\information\342 px\information04.xnb
+C:\Users\Fig\OneDrive\Desktop\Archive Proects\Kebaberia\Kebaberia\bin\Debug\net6.0\Content\Assets\Buttons\information\342 px\information05.xnb
+C:\Users\Fig\OneDrive\Desktop\Archive Proects\Kebaberia\Kebaberia\bin\Debug\net6.0\Content\Assets\Buttons\information\72 px\information01.xnb
+C:\Users\Fig\OneDrive\Desktop\Archive Proects\Kebaberia\Kebaberia\bin\Debug\net6.0\Content\Assets\Buttons\information\72 px\information02.xnb
+C:\Users\Fig\OneDrive\Desktop\Archive Proects\Kebaberia\Kebaberia\bin\Debug\net6.0\Content\Assets\Buttons\information\72 px\information03.xnb
+C:\Users\Fig\OneDrive\Desktop\Archive Proects\Kebaberia\Kebaberia\bin\Debug\net6.0\Content\Assets\Buttons\information\72 px\information04.xnb
+C:\Users\Fig\OneDrive\Desktop\Archive Proects\Kebaberia\Kebaberia\bin\Debug\net6.0\Content\Assets\Buttons\information\72 px\information05.xnb
+C:\Users\Fig\OneDrive\Desktop\Archive Proects\Kebaberia\Kebaberia\bin\Debug\net6.0\Content\Assets\Buttons\leaderboard\342 px\leaderboard01.xnb
+C:\Users\Fig\OneDrive\Desktop\Archive Proects\Kebaberia\Kebaberia\bin\Debug\net6.0\Content\Assets\Buttons\leaderboard\342 px\leaderboard02.xnb
+C:\Users\Fig\OneDrive\Desktop\Archive Proects\Kebaberia\Kebaberia\bin\Debug\net6.0\Content\Assets\Buttons\leaderboard\342 px\leaderboard03.xnb
+C:\Users\Fig\OneDrive\Desktop\Archive Proects\Kebaberia\Kebaberia\bin\Debug\net6.0\Content\Assets\Buttons\leaderboard\342 px\leaderboard04.xnb
+C:\Users\Fig\OneDrive\Desktop\Archive Proects\Kebaberia\Kebaberia\bin\Debug\net6.0\Content\Assets\Buttons\leaderboard\342 px\leaderboard05.xnb
+C:\Users\Fig\OneDrive\Desktop\Archive Proects\Kebaberia\Kebaberia\bin\Debug\net6.0\Content\Assets\Buttons\leaderboard\72 px\leaderboard01.xnb
+C:\Users\Fig\OneDrive\Desktop\Archive Proects\Kebaberia\Kebaberia\bin\Debug\net6.0\Content\Assets\Buttons\leaderboard\72 px\leaderboard02.xnb
+C:\Users\Fig\OneDrive\Desktop\Archive Proects\Kebaberia\Kebaberia\bin\Debug\net6.0\Content\Assets\Buttons\leaderboard\72 px\leaderboard03.xnb
+C:\Users\Fig\OneDrive\Desktop\Archive Proects\Kebaberia\Kebaberia\bin\Debug\net6.0\Content\Assets\Buttons\leaderboard\72 px\leaderboard04.xnb
+C:\Users\Fig\OneDrive\Desktop\Archive Proects\Kebaberia\Kebaberia\bin\Debug\net6.0\Content\Assets\Buttons\leaderboard\72 px\leaderboard05.xnb
+C:\Users\Fig\OneDrive\Desktop\Archive Proects\Kebaberia\Kebaberia\bin\Debug\net6.0\Content\Assets\Buttons\play\342 px\play01.xnb
+C:\Users\Fig\OneDrive\Desktop\Archive Proects\Kebaberia\Kebaberia\bin\Debug\net6.0\Content\Assets\Buttons\play\342 px\play02.xnb
+C:\Users\Fig\OneDrive\Desktop\Archive Proects\Kebaberia\Kebaberia\bin\Debug\net6.0\Content\Assets\Buttons\play\342 px\play03.xnb
+C:\Users\Fig\OneDrive\Desktop\Archive Proects\Kebaberia\Kebaberia\bin\Debug\net6.0\Content\Assets\Buttons\play\342 px\play04.xnb
+C:\Users\Fig\OneDrive\Desktop\Archive Proects\Kebaberia\Kebaberia\bin\Debug\net6.0\Content\Assets\Buttons\play\342 px\play05.xnb
+C:\Users\Fig\OneDrive\Desktop\Archive Proects\Kebaberia\Kebaberia\bin\Debug\net6.0\Content\Assets\Buttons\play\72 px\play01.xnb
+C:\Users\Fig\OneDrive\Desktop\Archive Proects\Kebaberia\Kebaberia\bin\Debug\net6.0\Content\Assets\Buttons\play\72 px\play02.xnb
+C:\Users\Fig\OneDrive\Desktop\Archive Proects\Kebaberia\Kebaberia\bin\Debug\net6.0\Content\Assets\Buttons\play\72 px\play03.xnb
+C:\Users\Fig\OneDrive\Desktop\Archive Proects\Kebaberia\Kebaberia\bin\Debug\net6.0\Content\Assets\Buttons\play\72 px\play04.xnb
+C:\Users\Fig\OneDrive\Desktop\Archive Proects\Kebaberia\Kebaberia\bin\Debug\net6.0\Content\Assets\Buttons\play\72 px\play05.xnb
+C:\Users\Fig\OneDrive\Desktop\Archive Proects\Kebaberia\Kebaberia\bin\Debug\net6.0\Content\Assets\Food We Picked\AppleWorm.xnb
+C:\Users\Fig\OneDrive\Desktop\Archive Proects\Kebaberia\Kebaberia\bin\Debug\net6.0\Content\Assets\Food We Picked\Fish.xnb
+C:\Users\Fig\OneDrive\Desktop\Archive Proects\Kebaberia\Kebaberia\bin\Debug\net6.0\Content\Assets\Food We Picked\Grub.xnb
+C:\Users\Fig\OneDrive\Desktop\Archive Proects\Kebaberia\Kebaberia\bin\Debug\net6.0\Content\Assets\Food We Picked\MelonWater.xnb
+C:\Users\Fig\OneDrive\Desktop\Archive Proects\Kebaberia\Kebaberia\bin\Debug\net6.0\Content\Assets\Food We Picked\Pickle.xnb
+C:\Users\Fig\OneDrive\Desktop\Archive Proects\Kebaberia\Kebaberia\bin\Debug\net6.0\Content\Assets\Food We Picked\Pineapple.xnb
+C:\Users\Fig\OneDrive\Desktop\Archive Proects\Kebaberia\Kebaberia\bin\Debug\net6.0\Content\Assets\Food We Picked\Sashimi.xnb
+C:\Users\Fig\OneDrive\Desktop\Archive Proects\Kebaberia\Kebaberia\bin\Debug\net6.0\Content\Assets\Food We Picked\Shrimp.xnb
+C:\Users\Fig\OneDrive\Desktop\Archive Proects\Kebaberia\Kebaberia\bin\Debug\net6.0\Content\Assets\Kebab Stick.xnb
+C:\Users\Fig\OneDrive\Desktop\Archive Proects\Kebaberia\Kebaberia\bin\Debug\net6.0\Content\Assets\Sounds\clickSound.xnb
+C:\Users\Fig\OneDrive\Desktop\Archive Proects\Kebaberia\Kebaberia\bin\Debug\net6.0\Content\Assets\Sounds\correctSound.xnb
+C:\Users\Fig\OneDrive\Desktop\Archive Proects\Kebaberia\Kebaberia\bin\Debug\net6.0\Content\Assets\Sounds\errorSound.xnb
+C:\Users\Fig\OneDrive\Desktop\Archive Proects\Kebaberia\Kebaberia\bin\Debug\net6.0\Content\Assets\Sounds\gameNotification.xnb
+C:\Users\Fig\OneDrive\Desktop\Archive Proects\Kebaberia\Kebaberia\bin\Debug\net6.0\Content\Assets\Sounds\stickSound.xnb
+C:\Users\Fig\OneDrive\Desktop\Archive Proects\Kebaberia\Kebaberia\bin\Debug\net6.0\Content\Assets\Sounds\upbeatJazz.ogg
+C:\Users\Fig\OneDrive\Desktop\Archive Proects\Kebaberia\Kebaberia\bin\Debug\net6.0\Content\Assets\Sounds\upbeatJazz.xnb
+C:\Users\Fig\OneDrive\Desktop\Archive Proects\Kebaberia\Kebaberia\bin\Debug\net6.0\Content\Assets\Ui Sample.xnb
+C:\Users\Fig\OneDrive\Desktop\Archive Proects\Kebaberia\Kebaberia\bin\Debug\net6.0\Content\Assets\Wooden font v1\RedWood-5x.xnb
+C:\Users\Fig\OneDrive\Desktop\Archive Proects\Kebaberia\Kebaberia\bin\Debug\net6.0\Content\Assets\Wooden font v1\RedWood.xnb
+C:\Users\Fig\OneDrive\Desktop\Archive Proects\Kebaberia\Kebaberia\bin\Debug\net6.0\Content\Assets\Wooden font v1\RedWoodPressed-5x.xnb
+C:\Users\Fig\OneDrive\Desktop\Archive Proects\Kebaberia\Kebaberia\bin\Debug\net6.0\Content\Assets\Wooden font v1\RedWoodPressed.xnb
+C:\Users\Fig\OneDrive\Desktop\Archive Proects\Kebaberia\Kebaberia\bin\Debug\net6.0\Content\Assets\Wooden font v1\WhiteWood-5x.xnb
+C:\Users\Fig\OneDrive\Desktop\Archive Proects\Kebaberia\Kebaberia\bin\Debug\net6.0\Content\Assets\Wooden font v1\WhiteWood.xnb
+C:\Users\Fig\OneDrive\Desktop\Archive Proects\Kebaberia\Kebaberia\bin\Debug\net6.0\Content\Assets\Wooden font v1\WhiteWoodPressed-5x.xnb
+C:\Users\Fig\OneDrive\Desktop\Archive Proects\Kebaberia\Kebaberia\bin\Debug\net6.0\Content\Assets\Wooden font v1\WhiteWoodPressed.xnb
+C:\Users\Fig\OneDrive\Desktop\Archive Proects\Kebaberia\Kebaberia\bin\Debug\net6.0\Content\Assets\Wooden font v1\Wood-5x.xnb
+C:\Users\Fig\OneDrive\Desktop\Archive Proects\Kebaberia\Kebaberia\bin\Debug\net6.0\Content\Assets\Wooden font v1\Wood.xnb
+C:\Users\Fig\OneDrive\Desktop\Archive Proects\Kebaberia\Kebaberia\bin\Debug\net6.0\Content\Assets\Wooden font v1\WoodPressed-5x.xnb
+C:\Users\Fig\OneDrive\Desktop\Archive Proects\Kebaberia\Kebaberia\bin\Debug\net6.0\Content\Assets\Wooden font v1\WoodPressed.xnb
+C:\Users\Fig\OneDrive\Desktop\Archive Proects\Kebaberia\Kebaberia\bin\Debug\net6.0\Content\Cat-Comic-36.xnb
+C:\Users\Fig\OneDrive\Desktop\Archive Proects\Kebaberia\Kebaberia\bin\Debug\net6.0\Content\Cat-Comic-70.xnb
+C:\Users\Fig\OneDrive\Desktop\Archive Proects\Kebaberia\Kebaberia\bin\Debug\net6.0\Content\horizontalPaper.xnb
+C:\Users\Fig\OneDrive\Desktop\Archive Proects\Kebaberia\Kebaberia\bin\Debug\net6.0\Content\horizontalWood.xnb
+C:\Users\Fig\OneDrive\Desktop\Archive Proects\Kebaberia\Kebaberia\bin\Debug\net6.0\Content\kebaberiaLogo.xnb
+C:\Users\Fig\OneDrive\Desktop\Archive Proects\Kebaberia\Kebaberia\bin\Debug\net6.0\Content\KebaberiaLogoNew.xnb
+C:\Users\Fig\OneDrive\Desktop\Archive Proects\Kebaberia\Kebaberia\bin\Debug\net6.0\Content\openTrashBin.xnb
+C:\Users\Fig\OneDrive\Desktop\Archive Proects\Kebaberia\Kebaberia\bin\Debug\net6.0\Content\solid_blue.xnb
+C:\Users\Fig\OneDrive\Desktop\Archive Proects\Kebaberia\Kebaberia\bin\Debug\net6.0\Content\stick.xnb
+C:\Users\Fig\OneDrive\Desktop\Archive Proects\Kebaberia\Kebaberia\bin\Debug\net6.0\Content\trashBin.xnb
+C:\Users\Fig\OneDrive\Desktop\Archive Proects\Kebaberia\Kebaberia\bin\Debug\net6.0\Content\verticalRibbon.xnb
+C:\Users\Fig\OneDrive\Desktop\Archive Proects\Kebaberia\Kebaberia\bin\Debug\net6.0\Content\verticalWood.xnb
+C:\Users\Fig\OneDrive\Desktop\Archive Proects\Kebaberia\Kebaberia\bin\Debug\net6.0\Content\woodBackground.xnb
+C:\Users\Fig\OneDrive\Desktop\Archive Proects\Kebaberia\Kebaberia\bin\Debug\net6.0\Kebaberia.exe
+C:\Users\Fig\OneDrive\Desktop\Archive Proects\Kebaberia\Kebaberia\bin\Debug\net6.0\Kebaberia.deps.json
+C:\Users\Fig\OneDrive\Desktop\Archive Proects\Kebaberia\Kebaberia\bin\Debug\net6.0\Kebaberia.runtimeconfig.json
+C:\Users\Fig\OneDrive\Desktop\Archive Proects\Kebaberia\Kebaberia\bin\Debug\net6.0\Kebaberia.dll
+C:\Users\Fig\OneDrive\Desktop\Archive Proects\Kebaberia\Kebaberia\bin\Debug\net6.0\Kebaberia.pdb
+C:\Users\Fig\OneDrive\Desktop\Archive Proects\Kebaberia\Kebaberia\bin\Debug\net6.0\MonoGame.Extended.dll
+C:\Users\Fig\OneDrive\Desktop\Archive Proects\Kebaberia\Kebaberia\bin\Debug\net6.0\MonoGame.Framework.dll
+C:\Users\Fig\OneDrive\Desktop\Archive Proects\Kebaberia\Kebaberia\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Fig\OneDrive\Desktop\Archive Proects\Kebaberia\Kebaberia\bin\Debug\net6.0\runtimes\linux-x64\native\libSDL2-2.0.so.0
+C:\Users\Fig\OneDrive\Desktop\Archive Proects\Kebaberia\Kebaberia\bin\Debug\net6.0\runtimes\linux-x64\native\libopenal.so.1
+C:\Users\Fig\OneDrive\Desktop\Archive Proects\Kebaberia\Kebaberia\bin\Debug\net6.0\runtimes\osx\native\libSDL2.dylib
+C:\Users\Fig\OneDrive\Desktop\Archive Proects\Kebaberia\Kebaberia\bin\Debug\net6.0\runtimes\osx\native\libopenal.1.dylib
+C:\Users\Fig\OneDrive\Desktop\Archive Proects\Kebaberia\Kebaberia\bin\Debug\net6.0\runtimes\win-x64\native\SDL2.dll
+C:\Users\Fig\OneDrive\Desktop\Archive Proects\Kebaberia\Kebaberia\bin\Debug\net6.0\runtimes\win-x64\native\soft_oal.dll
+C:\Users\Fig\OneDrive\Desktop\Archive Proects\Kebaberia\Kebaberia\bin\Debug\net6.0\runtimes\win-x86\native\SDL2.dll
+C:\Users\Fig\OneDrive\Desktop\Archive Proects\Kebaberia\Kebaberia\bin\Debug\net6.0\runtimes\win-x86\native\soft_oal.dll
+C:\Users\Fig\OneDrive\Desktop\Archive Proects\Kebaberia\Kebaberia\obj\Debug\net6.0\Kebaberia.csproj.AssemblyReference.cache
+C:\Users\Fig\OneDrive\Desktop\Archive Proects\Kebaberia\Kebaberia\obj\Debug\net6.0\Kebaberia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fig\OneDrive\Desktop\Archive Proects\Kebaberia\Kebaberia\obj\Debug\net6.0\Kebaberia.AssemblyInfoInputs.cache
+C:\Users\Fig\OneDrive\Desktop\Archive Proects\Kebaberia\Kebaberia\obj\Debug\net6.0\Kebaberia.AssemblyInfo.cs
+C:\Users\Fig\OneDrive\Desktop\Archive Proects\Kebaberia\Kebaberia\obj\Debug\net6.0\Kebaberia.csproj.CoreCompileInputs.cache
+C:\Users\Fig\OneDrive\Desktop\Archive Proects\Kebaberia\Kebaberia\obj\Debug\net6.0\Kebaberia.sourcelink.json
+C:\Users\Fig\OneDrive\Desktop\Archive Proects\Kebaberia\Kebaberia\obj\Debug\net6.0\Kebaberia.csproj.Up2Date
+C:\Users\Fig\OneDrive\Desktop\Archive Proects\Kebaberia\Kebaberia\obj\Debug\net6.0\Kebaberia.dll
+C:\Users\Fig\OneDrive\Desktop\Archive Proects\Kebaberia\Kebaberia\obj\Debug\net6.0\refint\Kebaberia.dll
+C:\Users\Fig\OneDrive\Desktop\Archive Proects\Kebaberia\Kebaberia\obj\Debug\net6.0\Kebaberia.pdb
+C:\Users\Fig\OneDrive\Desktop\Archive Proects\Kebaberia\Kebaberia\obj\Debug\net6.0\Kebaberia.genruntimeconfig.cache
+C:\Users\Fig\OneDrive\Desktop\Archive Proects\Kebaberia\Kebaberia\obj\Debug\net6.0\ref\Kebaberia.dll

@@ -1,0 +1,74 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Fig\\OneDrive\\Desktop\\Archive Proects\\Kebaberia\\Kebaberia\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E0F5BAC3-5577-4345-AB3C-702F30E75518}|Kebaberia.csproj|c:\\users\\fig\\onedrive\\desktop\\archive proects\\kebaberia\\kebaberia\\game1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0F5BAC3-5577-4345-AB3C-702F30E75518}|Kebaberia.csproj|solutionrelative:game1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0F5BAC3-5577-4345-AB3C-702F30E75518}|Kebaberia.csproj|c:\\users\\fig\\onedrive\\desktop\\archive proects\\kebaberia\\kebaberia\\stick.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0F5BAC3-5577-4345-AB3C-702F30E75518}|Kebaberia.csproj|solutionrelative:stick.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0F5BAC3-5577-4345-AB3C-702F30E75518}|Kebaberia.csproj|c:\\users\\fig\\onedrive\\desktop\\archive proects\\kebaberia\\kebaberia\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0F5BAC3-5577-4345-AB3C-702F30E75518}|Kebaberia.csproj|solutionrelative:order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Stick.cs",
+              "DocumentMoniker": "C:\\Users\\Fig\\OneDrive\\Desktop\\Archive Proects\\Kebaberia\\Kebaberia\\Stick.cs",
+              "RelativeDocumentMoniker": "Stick.cs",
+              "ToolTip": "C:\\Users\\Fig\\OneDrive\\Desktop\\Archive Proects\\Kebaberia\\Kebaberia\\Stick.cs",
+              "RelativeToolTip": "Stick.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T20:37:00.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\Fig\\OneDrive\\Desktop\\Archive Proects\\Kebaberia\\Kebaberia\\Order.cs",
+              "RelativeDocumentMoniker": "Order.cs",
+              "ToolTip": "C:\\Users\\Fig\\OneDrive\\Desktop\\Archive Proects\\Kebaberia\\Kebaberia\\Order.cs",
+              "RelativeToolTip": "Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T22:15:00.624Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Game1.cs",
+              "DocumentMoniker": "C:\\Users\\Fig\\OneDrive\\Desktop\\Archive Proects\\Kebaberia\\Kebaberia\\Game1.cs",
+              "RelativeDocumentMoniker": "Game1.cs",
+              "ToolTip": "C:\\Users\\Fig\\OneDrive\\Desktop\\Archive Proects\\Kebaberia\\Kebaberia\\Game1.cs",
+              "RelativeToolTip": "Game1.cs",
+              "ViewState": "AgIAAOUBAAAAAAAAAAAqwCYCAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T00:26:32.002Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

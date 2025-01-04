@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/Fig/OneDrive/Desktop/Archive Proects/Kebaberia/Kebaberia/Content/Assets/Buttons/about/342 px/about01.png</File>
+    <File>C:/Users/Fig/OneDrive/Desktop/Archive Proects/Kebaberia/Kebaberia/Content/Assets/Buttons/about/342 px/about02.png</File>
+    <File>C:/Users/Fig/OneDrive/Desktop/Archive Proects/Kebaberia/Kebaberia/Content/Assets/Buttons/about/342 px/about03.png</File>
+    <File>C:/Users/Fig/OneDrive/Desktop/Archive Proects/Kebaberia/Kebaberia/Content/Assets/Buttons/about/342 px/about04.png</File>
+    <File>C:/Users/Fig/OneDrive/Desktop/Archive Proects/Kebaberia/Kebaberia/Content/Assets/Buttons/about/342 px/about05.png</File>
+    <File>C:/Users/Fig/OneDrive/Desktop/Archive Proects/Kebaberia/Kebaberia/Content/Assets/Buttons/about/72 px/about01.png</File>
+    <File>C:/Users/Fig/OneDrive/Desktop/Archive Proects/Kebaberia/Kebaberia/Content/Assets/Buttons/about/72 px/about02.png</File>
+    <File>C:/Users/Fig/OneDrive/Desktop/Archive Proects/Kebaberia/Kebaberia/Content/Assets/Buttons/about/72 px/about03.png</File>
+    <File>C:/Users/Fig/OneDrive/Desktop/Archive Proects/Kebaberia/Kebaberia/Content/Assets/Buttons/about/72 px/about04.png</File>
+    <File>C:/Users/Fig/OneDrive/Desktop/Archive Proects/Kebaberia/Kebaberia/Content/Assets/Buttons/about/72 px/about05.png</File>
+    <File>C:/Users/Fig/OneDrive/Desktop/Archive Proects/Kebaberia/Kebaberia/Content/Assets/Buttons/back/342 px/back01.png</File>
+    <File>C:/Users/Fig/OneDrive/Desktop/Archive Proects/Kebaberia/Kebaberia/Content/Assets/Buttons/back/342 px/back02.png</File>
+    <File>C:/Users/Fig/OneDrive/Desktop/Archive Proects/Kebaberia/Kebaberia/Content/Assets/Buttons/back/342 px/back03.png</File>
+    <File>C:/Users/Fig/OneDrive/Desktop/Archive Proects/Kebaberia/Kebaberia/Content/Assets/Buttons/back/342 px/back04.png</File>
+    <File>C:/Users/Fig/OneDrive/Desktop/Archive Proects/Kebaberia/Kebaberia/Content/Assets/Buttons/back/342 px/back05.png</File>
+    <File>C:/Users/Fig/OneDrive/Desktop/Archive Proects/Kebaberia/Kebaberia/Content/Assets/Buttons/back/72 px/back01.png</File>
+    <File>C:/Users/Fig/OneDrive/Desktop/Archive Proects/Kebaberia/Kebaberia/Content/Assets/Buttons/back/72 px/back02.png</File>
+    <File>C:/Users/Fig/OneDrive/Desktop/Archive Proects/Kebaberia/Kebaberia/Content/Assets/Buttons/back/72 px/back03.png</File>
+    <File>C:/Users/Fig/OneDrive/Desktop/Archive Proects/Kebaberia/Kebaberia/Content/Assets/Buttons/back/72 px/back04.png</File>
+    <File>C:/Users/Fig/OneDrive/Desktop/Archive Proects/Kebaberia/Kebaberia/Content/Assets/Buttons/back/72 px/back05.png</File>
+    <File>C:/Users/Fig/OneDrive/Desktop/Archive Proects/Kebaberia/Kebaberia/Content/Assets/Buttons/information/342 px/information01.png</File>
+    <File>C:/Users/Fig/OneDrive/Desktop/Archive Proects/Kebaberia/Kebaberia/Content/Assets/Buttons/information/342 px/information02.png</File>
+    <File>C:/Users/Fig/OneDrive/Desktop/Archive Proects/Kebaberia/Kebaberia/Content/Assets/Buttons/information/342 px/information03.png</File>
+    <File>C:/Users/Fig/OneDrive/Desktop/Archive Proects/Kebaberia/Kebaberia/Content/Assets/Buttons/information/342 px/information04.png</File>
+    <File>C:/Users/Fig/OneDrive/Desktop/Archive Proects/Kebaberia/Kebaberia/Content/Assets/Buttons/information/342 px/information05.png</File>
+    <File>C:/Users/Fig/OneDrive/Desktop/Archive Proects/Kebaberia/Kebaberia/Content/Assets/Buttons/information/72 px/information01.png</File>
+    <File>C:/Users/Fig/OneDrive/Desktop/Archive Proects/Kebaberia/Kebaberia/Content/Assets/Buttons/information/72 px/information02.png</File>
+    <File>C:/Users/Fig/OneDrive/Desktop/Archive Proects/Kebaberia/Kebaberia/Content/Assets/Buttons/information/72 px/information03.png</File>
+    <File>C:/Users/Fig/OneDrive/Desktop/Archive Proects/Kebaberia/Kebaberia/Content/Assets/Buttons/information/72 px/information04.png</File>
+    <File>C:/Users/Fig/OneDrive/Desktop/Archive Proects/Kebaberia/Kebaberia/Content/Assets/Buttons/information/72 px/information05.png</File>
+    <File>C:/Users/Fig/OneDrive/Desktop/Archive Proects/Kebaberia/Kebaberia/Content/Assets/Buttons/leaderboard/342 px/leaderboard01.png</File>
+    <File>C:/Users/Fig/OneDrive/Desktop/Archive Proects/Kebaberia/Kebaberia/Content/Assets/Buttons/leaderboard/342 px/leaderboard02.png</File>
+    <File>C:/Users/Fig/OneDrive/Desktop/Archive Proects/Kebaberia/Kebaberia/Content/Assets/Buttons/leaderboard/342 px/leaderboard03.png</File>
+    <File>C:/Users/Fig/OneDrive/Desktop/Archive Proects/Kebaberia/Kebaberia/Content/Assets/Buttons/leaderboard/342 px/leaderboard04.png</File>
+    <File>C:/Users/Fig/OneDrive/Desktop/Archive Proects/Kebaberia/Kebaberia/Content/Assets/Buttons/leaderboard/342 px/leaderboard05.png</File>
+    <File>C:/Users/Fig/OneDrive/Desktop/Archive Proects/Kebaberia/Kebaberia/Content/Assets/Buttons/leaderboard/72 px/leaderboard01.png</File>
+    <File>C:/Users/Fig/OneDrive/Desktop/Archive Proects/Kebaberia/Kebaberia/Content/Assets/Buttons/leaderboard/72 px/leaderboard02.png</File>
+    <File>C:/Users/Fig/OneDrive/Desktop/Archive Proects/Kebaberia/Kebaberia/Content/Assets/Buttons/leaderboard/72 px/leaderboard03.png</File>
+    <File>C:/Users/Fig/OneDrive/Desktop/Archive Proects/Kebaberia/Kebaberia/Content/Assets/Buttons/leaderboard/72 px/leaderboard04.png</File>
+    <File>C:/Users/Fig/OneDrive/Desktop/Archive Proects/Kebaberia/Kebaberia/Content/Assets/Buttons/leaderboard/72 px/leaderboard05.png</File>
+    <File>C:/Users/Fig/OneDrive/Desktop/Archive Proects/Kebaberia/Kebaberia/Content/Assets/Buttons/play/342 px/play01.png</File>
+    <File>C:/Users/Fig/OneDrive/Desktop/Archive Proects/Kebaberia/Kebaberia/Content/Assets/Buttons/play/342 px/play02.png</File>
+    <File>C:/Users/Fig/OneDrive/Desktop/Archive Proects/Kebaberia/Kebaberia/Content/Assets/Buttons/play/342 px/play03.png</File>
+    <File>C:/Users/Fig/OneDrive/Desktop/Archive Proects/Kebaberia/Kebaberia/Content/Assets/Buttons/play/342 px/play04.png</File>
+    <File>C:/Users/Fig/OneDrive/Desktop/Archive Proects/Kebaberia/Kebaberia/Content/Assets/Buttons/play/342 px/play05.png</File>
+    <File>C:/Users/Fig/OneDrive/Desktop/Archive Proects/Kebaberia/Kebaberia/Content/Assets/Buttons/play/72 px/play01.png</File>
+    <File>C:/Users/Fig/OneDrive/Desktop/Archive Proects/Kebaberia/Kebaberia/Content/Assets/Buttons/play/72 px/play02.png</File>
+    <File>C:/Users/Fig/OneDrive/Desktop/Archive Proects/Kebaberia/Kebaberia/Content/Assets/Buttons/play/72 px/play03.png</File>
+    <File>C:/Users/Fig/OneDrive/Desktop/Archive Proects/Kebaberia/Kebaberia/Content/Assets/Buttons/play/72 px/play04.png</File>
+    <File>C:/Users/Fig/OneDrive/Desktop/Archive Proects/Kebaberia/Kebaberia/Content/Assets/Buttons/play/72 px/play05.png</File>
+    <File>C:/Users/Fig/OneDrive/Desktop/Archive Proects/Kebaberia/Kebaberia/Content/Assets/Food We Picked/AppleWorm.png</File>
+    <File>C:/Users/Fig/OneDrive/Desktop/Archive Proects/Kebaberia/Kebaberia/Content/Assets/Food We Picked/Fish.png</File>
+    <File>C:/Users/Fig/OneDrive/Desktop/Archive Proects/Kebaberia/Kebaberia/Content/Assets/Food We Picked/Grub.png</File>
+    <File>C:/Users/Fig/OneDrive/Desktop/Archive Proects/Kebaberia/Kebaberia/Content/Assets/Food We Picked/MelonWater.png</File>
+    <File>C:/Users/Fig/OneDrive/Desktop/Archive Proects/Kebaberia/Kebaberia/Content/Assets/Food We Picked/Pickle.png</File>
+    <File>C:/Users/Fig/OneDrive/Desktop/Archive Proects/Kebaberia/Kebaberia/Content/Assets/Food We Picked/Pineapple.png</File>
+    <File>C:/Users/Fig/OneDrive/Desktop/Archive Proects/Kebaberia/Kebaberia/Content/Assets/Food We Picked/Sashimi.png</File>
+    <File>C:/Users/Fig/OneDrive/Desktop/Archive Proects/Kebaberia/Kebaberia/Content/Assets/Food We Picked/Shrimp.png</File>
+    <File>C:/Users/Fig/OneDrive/Desktop/Archive Proects/Kebaberia/Kebaberia/Content/Assets/Kebab Stick.png</File>
+    <File>C:/Users/Fig/OneDrive/Desktop/Archive Proects/Kebaberia/Kebaberia/Content/Assets/Sounds/clickSound.mp3</File>
+    <File>C:/Users/Fig/OneDrive/Desktop/Archive Proects/Kebaberia/Kebaberia/Content/Assets/Sounds/correctSound.mp3</File>
+    <File>C:/Users/Fig/OneDrive/Desktop/Archive Proects/Kebaberia/Kebaberia/Content/Assets/Sounds/errorSound.mp3</File>
+    <File>C:/Users/Fig/OneDrive/Desktop/Archive Proects/Kebaberia/Kebaberia/Content/Assets/Sounds/gameNotification.mp3</File>
+    <File>C:/Users/Fig/OneDrive/Desktop/Archive Proects/Kebaberia/Kebaberia/Content/Assets/Sounds/stickSound.mp3</File>
+    <File>C:/Users/Fig/OneDrive/Desktop/Archive Proects/Kebaberia/Kebaberia/Content/Assets/Sounds/upbeatJazz.mp3</File>
+    <File>C:/Users/Fig/OneDrive/Desktop/Archive Proects/Kebaberia/Kebaberia/Content/Assets/Ui Sample.png</File>
+    <File>C:/Users/Fig/OneDrive/Desktop/Archive Proects/Kebaberia/Kebaberia/Content/Assets/Wooden font v1/RedWood-5x.png</File>
+    <File>C:/Users/Fig/OneDrive/Desktop/Archive Proects/Kebaberia/Kebaberia/Content/Assets/Wooden font v1/RedWood.png</File>
+    <File>C:/Users/Fig/OneDrive/Desktop/Archive Proects/Kebaberia/Kebaberia/Content/Assets/Wooden font v1/RedWoodPressed-5x.png</File>
+    <File>C:/Users/Fig/OneDrive/Desktop/Archive Proects/Kebaberia/Kebaberia/Content/Assets/Wooden font v1/RedWoodPressed.png</File>
+    <File>C:/Users/Fig/OneDrive/Desktop/Archive Proects/Kebaberia/Kebaberia/Content/Assets/Wooden font v1/WhiteWood-5x.png</File>
+    <File>C:/Users/Fig/OneDrive/Desktop/Archive Proects/Kebaberia/Kebaberia/Content/Assets/Wooden font v1/WhiteWood.png</File>
+    <File>C:/Users/Fig/OneDrive/Desktop/Archive Proects/Kebaberia/Kebaberia/Content/Assets/Wooden font v1/WhiteWoodPressed-5x.png</File>
+    <File>C:/Users/Fig/OneDrive/Desktop/Archive Proects/Kebaberia/Kebaberia/Content/Assets/Wooden font v1/WhiteWoodPressed.png</File>
+    <File>C:/Users/Fig/OneDrive/Desktop/Archive Proects/Kebaberia/Kebaberia/Content/Assets/Wooden font v1/Wood-5x.png</File>
+    <File>C:/Users/Fig/OneDrive/Desktop/Archive Proects/Kebaberia/Kebaberia/Content/Assets/Wooden font v1/Wood.png</File>
+    <File>C:/Users/Fig/OneDrive/Desktop/Archive Proects/Kebaberia/Kebaberia/Content/Assets/Wooden font v1/WoodPressed-5x.png</File>
+    <File>C:/Users/Fig/OneDrive/Desktop/Archive Proects/Kebaberia/Kebaberia/Content/Assets/Wooden font v1/WoodPressed.png</File>
+    <File>C:/Users/Fig/OneDrive/Desktop/Archive Proects/Kebaberia/Kebaberia/Content/Cat-Comic-36.spritefont</File>
+    <File>C:/Users/Fig/OneDrive/Desktop/Archive Proects/Kebaberia/Kebaberia/Content/Cat-Comic-70.spritefont</File>
+    <File>C:/Users/Fig/OneDrive/Desktop/Archive Proects/Kebaberia/Kebaberia/Content/horizontalPaper.png</File>
+    <File>C:/Users/Fig/OneDrive/Desktop/Archive Proects/Kebaberia/Kebaberia/Content/horizontalWood.png</File>
+    <File>C:/Users/Fig/OneDrive/Desktop/Archive Proects/Kebaberia/Kebaberia/Content/kebaberiaLogo.png</File>
+    <File>C:/Users/Fig/OneDrive/Desktop/Archive Proects/Kebaberia/Kebaberia/Content/KebaberiaLogoNew.png</File>
+    <File>C:/Users/Fig/OneDrive/Desktop/Archive Proects/Kebaberia/Kebaberia/Content/openTrashBin.png</File>
+    <File>C:/Users/Fig/OneDrive/Desktop/Archive Proects/Kebaberia/Kebaberia/Content/solid_blue.png</File>
+    <File>C:/Users/Fig/OneDrive/Desktop/Archive Proects/Kebaberia/Kebaberia/Content/stick.png</File>
+    <File>C:/Users/Fig/OneDrive/Desktop/Archive Proects/Kebaberia/Kebaberia/Content/trashBin.png</File>
+    <File>C:/Users/Fig/OneDrive/Desktop/Archive Proects/Kebaberia/Kebaberia/Content/verticalRibbon.png</File>
+    <File>C:/Users/Fig/OneDrive/Desktop/Archive Proects/Kebaberia/Kebaberia/Content/verticalWood.png</File>
+    <File>C:/Users/Fig/OneDrive/Desktop/Archive Proects/Kebaberia/Kebaberia/Content/woodBackground.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
