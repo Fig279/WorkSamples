@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8" />
+    <title>Othello</title>
+    <link rel="stylesheet" href="stylesmain.css">
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Funnel+Display:wght@300..800&family=IM+Fell+Great+Primer+SC&family=RocknRoll+One&family=Teko:wght@300..700&display=swap"
+        rel="stylesheet">
+    <link rel="shortcut icon" href="#">
+
+</head>
+
+<body>
+    <header>
+        <h1>Othello</h1>
+    </header>
+
+    <a href="#instructions">Instructions</a>
+    <br>
+    <a href="https://people.rit.edu/~fdg3622/235/project3/about.html">Documentation Page</a>
+
+    <div id="gameplay">
+        <div id="leftStuff" class="sidebar">
+            <button type="button" id="undo">Undo Previous Move</button>
+            <br><br>
+            <button type="button" id="pass">Pass Turn</button>
+            <br><br>
+            <button type="button" id="newGame">Start New Game</button>
+
+        </div>
+
+        <div id="gridContainer"></div>
+
+
+        <div id="info" class="sidebar">
+            <p>Active Player: <span id="activePlayer">White <img src="images/white_token.png"
+                        alt="white player indicator"></span></p>
+            <p>White tokens: <span id="whiteTokenCount">2</span></p>
+            <p>Black tokens: <span id="blackTokenCount">2</span></p>
+
+            <p>Tokens taken last turn: <span id="tokensTaken">0</span></p>
+            <p>Turn number: <span id="turnNumber">0</span></p>
+        </div>
+    </div>
+
+    <div id="instructions">
+        <h2>Instuctions</h2>
+        <p>
+            Othello is a two player strategy game so grab a friend. One player will be
+            <br>placing black tokens while the other places white.
+            The goal of the game<br> is to have more of your tokens on the board when the game ends.
+        </p>
+
+        <p>
+            Whenever a token is placed it must be in a way that creates a <br>straight line with
+            a disc of the same color on the other end and discs of <br>your opponents color filling in the middle.
+            After placing the disc all of your opponents <br>discs in the line will be flipped to your color.
+        </p>
+
+        <p>With the starting setup these are all of the possible black plays:</p>
+        <img src="images/possible_plays.png" alt="">
+        <p>If black placed at the top-most option this is how the board will look after playing:</p>
+        <img src="images/flipping_white.png" alt="">
+        <p>Following that, these are all of the possible white plays:</p>
+        <img src="images/white_possibilites.png" alt="">
+        <p>
+            The players will take alternating turns until neither player has anywhere they can play. <br>
+            At this time whoever has the most tokens of their color wins.<br>
+            If one player can't place a token but the other player still could,
+            <br>they must pass their turn to the other player before continuing on normally.
+        </p>
+    </div>
+
+    <footer>
+        <hr>
+        <p>Fig Gamache</p>
+    </footer>
+
+    <script src="jsmain.js"></script>
+
+</body>
+
+</html>

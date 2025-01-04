@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: d10fd125eff4d7341bbb017f56691769
+  - enabled: 0
+    path: Assets/Scenes/cutscene1.unity
+    guid: df7378ea533f0f143995e84883a2822c
+  - enabled: 1
+    path: Assets/Scenes/Level1_Instructions.unity
+    guid: f69be2e536ee0bf42ad2bc3d42ddd5cc
+  - enabled: 1
+    path: Assets/Scenes/Level_1.unity
+    guid: 5ec641755e0b4844da85d73d7cc2f46d
+  - enabled: 1
+    path: Assets/Scenes/cutscene2.unity
+    guid: ec51140e89c4b4d498b20edc8191c6e3
+  - enabled: 1
+    path: Assets/Scenes/Level2_Instructions.unity
+    guid: 8d9c8384ab13d0e47901f10c3bd8b959
+  - enabled: 1
+    path: Assets/Scenes/Level_2.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/cutscene3.unity
+    guid: bf879e437585dae449506447f54445a1
+  - enabled: 1
+    path: Assets/Scenes/Level3_Instructions.unity
+    guid: 915aab28bfff9a643b66f85e4048b086
+  - enabled: 1
+    path: Assets/Scenes/Level_3.unity
+    guid: d88ce94d8fbe01444b256902402b8e7c
+  - enabled: 1
+    path: Assets/Scenes/cutscene_Final.unity
+    guid: 4c4c6d6745a5644479542273b7441708
+  m_configObjects: {}
